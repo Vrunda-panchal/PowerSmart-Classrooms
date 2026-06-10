@@ -17,3 +17,6 @@ Power Smart Classrooms is an AI-powered classroom monitoring system that uses co
 - OpenCV
 - YOLO (Ultralytics)
 - NumPy
+
+## Author
+**Vrunda Panchal**
